@@ -1,0 +1,6 @@
+n00b==
+6e 30 30 62 3d 3d
+
+
+flag{sin3point14_w4tch35_b0ku_n0_pic0}
+sha256: f54e88f505d5d1f10c1196af96eef0a506af816ee1e5a12893acb7dbc7b1c5f3
