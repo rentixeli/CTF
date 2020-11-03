@@ -1,2 +1,0 @@
-c0nv3rt1ng_fr0m_ba5e_64_e3152bf4
-picoCTF{c0nv3rt1ng_fr0m_ba5e_64_e3152bf4}
