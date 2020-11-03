@@ -1,0 +1,2 @@
+binwalk the file..
+## TOKENBESTSTREAMINGSERVICES
