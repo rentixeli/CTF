@@ -1,3 +1,4 @@
+```
 Encrypted message:
 Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
 
@@ -15,11 +16,12 @@ It 1508, Ozhgsyey Ycizmpmozd itapnzjo tnj do-ifwlki eahzwa xjntg (f xazwtx uk dh
 
 Merqlsu’x deityd htzkrje avupaxjo it 1555 fd a itytosfaznzn uk ehk ktryy. Ehk qzwkw saraps uk ehk fwpnfmezx lrk szw ymtfzjo rklflgwwy, hze tnj llvmlbkyd ati ehk nydkc wezypry fce sniej gj mkfys uk l mtjxotnn kkd ahxfde, cmtcn hln hj oilkprkse woys eghs cuwceyuznjjyt.
 ______________________________
+```
+```
 Vigenere Cipher
-
-
-key FLAG
+key: FLAG
 
 For the implementation of this cipher a table is formed by sliding the lower half of an ordinary alphabet for an apparently random number of places with respect to the upper halfpicoCTF{b311a50_0r_v1gn3r3_c1ph3ra966878a}
+```
 
-picoCTF{b311a50_0r_v1gn3r3_c1ph3ra966878a}
+## picoCTF{b311a50_0r_v1gn3r3_c1ph3ra966878a}
