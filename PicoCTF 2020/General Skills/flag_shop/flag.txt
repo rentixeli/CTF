@@ -1,4 +1,0 @@
-overflow int
-1000000000 * price 
-
-picoCTF{m0n3y_bag5_68d16363}
