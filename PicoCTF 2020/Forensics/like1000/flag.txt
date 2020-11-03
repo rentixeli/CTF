@@ -1,0 +1,3 @@
+untarred 1000 tars to get the first one which had a flag.png
+
+picoCTF{l0t5_0f_TAR5}
