@@ -1,3 +1,0 @@
-ls -a
-Im The Flag
-ABCTF{T3Rm1n4l_is_C00l}
