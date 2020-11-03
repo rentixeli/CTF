@@ -20,11 +20,11 @@ O.K there is a rar file encoded into the jpg.
 >kali@kali:~/Desktop$ binwalk -E Sukkah.jpg
 
 
-
+```
 will extract us the rar. now lets bruteforce it.
->kali@kali:~/Desktop/_Sukkah.jpg.extracted$ sudo rar2john 2F668.rar > text.hash
+kali@kali:~/Desktop/_Sukkah.jpg.extracted$ sudo rar2john 2F668.rar > text.hash
 kali@kali:~/Desktop/_Sukkah.jpg.extracted$ sudo john text.hash
-
+```
 
 
 
