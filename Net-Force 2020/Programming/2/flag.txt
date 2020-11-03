@@ -1,3 +1,0 @@
-b'The password is: damnfast<br />'
-
-damnfast
