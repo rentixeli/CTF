@@ -1,4 +1,4 @@
-'''
+```
 cordinates
 35.028309, 135.753082  -> Kyoto
 46.469391, 30.740883   -> Odessa
@@ -15,6 +15,6 @@ _
 31.205753, 29.924526   -> Alexandria
 
 KODIAK_ALASKA
-'''
+```
 
 ## picoCTF{KODIAK_ALASKA}
