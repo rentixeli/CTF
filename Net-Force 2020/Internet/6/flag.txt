@@ -1,3 +1,0 @@
-scanned barcode
-
-flag = 4710212125960
