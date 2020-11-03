@@ -1,4 +1,9 @@
 #!/usr/bin/env python2.7
+########################
+#                      #
+#   written by bymix   #
+#                      #
+########################
 import sys
 import socket
 import time
