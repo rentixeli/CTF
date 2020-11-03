@@ -51,5 +51,8 @@ we will get: #666c61 #677b4d #6f6164 #696d20 #4c6573 #696d63 #68617d
 which translates to ascii chars.
 ```
 >kali@kali:~/Desktop$ echo "666c61677b4d6f6164696d204c6573696d6368617d" | xxd -r -p
-flag{Moadim Lesimcha}
+
+
+
+>flag{Moadim Lesimcha}
 
