@@ -1,3 +1,9 @@
+##########################
+#                        #
+#   written by kmkm133   #
+#                        #
+##########################
+
 from collections import Counter
 import socket
 
