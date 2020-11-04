@@ -1,3 +1,5 @@
+![Image of hoshen](https://github.com/rentixeli/CTF/blob/main/Hoshen%202020/hoshen.png)
+
 ### Stage 1
 ```
 First we'll Decode the Morse Code.
