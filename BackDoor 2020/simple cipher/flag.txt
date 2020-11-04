@@ -1,4 +1,0 @@
-lkw qlby av qtpfyieidwnpawseycnicsdynjicklqevaciipoksabidpletelbmlpskkupsrrl
-I assume that it says: the flag is ...
-we will use vigenere cipher for this one and we will use sdslabs as a key. (challenge description)
-the flag is yipegqbqswmxitatybvqzasymrqzsaqddizqxpnsaxjxdotmqmabltxpszuoazot
