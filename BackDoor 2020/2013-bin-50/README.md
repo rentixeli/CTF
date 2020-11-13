@@ -1,5 +1,6 @@
 We will use hexeditor to view the raw text.
 ![picture](https://i.ibb.co/FKCfDNt/Untitled.png)
+
 Bingo! Now all we got to do is to test each password.
 ```
 kali@kali:~/Downloads$ ./binaary50 Masternamer
