@@ -10,7 +10,8 @@ I used an online website to check what xor key they possibly used and I've got: 
 which on hex is: 6e 30 30 62 3d 3d
 
 I wrote a script that xor the bits with the key.
-```def xor(data, key):
+```python3
+def xor(data, key):
 	return bytearray(((data[i] ^ key[i % len(key)]) for i in range(0, len(data))))
 
 data = bytearray(open('secretzz.png', 'rb').read())
