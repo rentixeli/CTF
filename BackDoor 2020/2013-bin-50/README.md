@@ -1,4 +1,4 @@
-We will use hexeditor to check the raw text.
+We will use hexeditor to view the raw text.
 ![picture](https://i.ibb.co/FKCfDNt/Untitled.png)
 Bingo! Now all we got to do is to test each password.
 ```
